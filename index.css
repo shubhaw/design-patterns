@@ -1,0 +1,16 @@
+* {
+    font-family: sans-serif;
+}
+.factory-pattern {
+    display: inline-block;
+    width: 200px;
+    margin: 10px;
+    border: 2px solid rgb(66, 96, 177);
+    border-radius: 10px;
+    padding: 0 20px;
+    box-sizing: border-box;
+    /* background: linear-gradient(270deg, #e58484, #e4bcbc); */
+    background: linear-gradient(270deg, #d4d6b2, #f5f4b8);
+    color: rgb(0, 108, 196);
+    font-family: Arial, Helvetica, sans-serif;
+}
